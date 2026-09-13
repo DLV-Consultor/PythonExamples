@@ -535,9 +535,7 @@ def guardar_f(tabla,tipo,rela=()):
 # endregion   
 # region interfaz de usuario 
 main = Tk()
-
-
-#variables que luego voy a usar para extraer los datos ingresados en widgets
+#variables que luego voy a usar para extraer los datos ingresados en widgets hola
 entrada= StringVar()
 entrada_inte= StringVar()
 entrada_prob= StringVar()
